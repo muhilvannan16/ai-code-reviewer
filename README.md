@@ -29,8 +29,9 @@ You'll need a free [Groq API key](https://console.groq.com/keys). Set it as a **
 
 **Windows:**
 
+```
 setx GROQ_API_KEY "your-key-here"
-
+```
 
 **macOS/Linux:**
 ```bash
