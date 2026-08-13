@@ -5,7 +5,7 @@
 [![PyPI](https://img.shields.io/pypi/v/ai-code-reviewer-cli?style=flat&logo=pypi&logoColor=white)](https://pypi.org/project/ai-code-reviewer-cli/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)](https://groq.com/)
-[![Publish](https://github.com/muhilvannan16/ai-code-reviewer/actions/workflows/publish.yml/badge.svg)](https://github.com/muhilvannan16/ai-code-reviewer/actions/workflows/publish.yml)
+[![Publish to PyPI](https://github.com/muhilvannan16/ai-code-reviewer/actions/workflows/publish.yml/badge.svg)](https://github.com/muhilvannan16/ai-code-reviewer/actions/workflows/publish.yml)
 
 ---
 
