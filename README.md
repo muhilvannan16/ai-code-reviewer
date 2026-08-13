@@ -2,7 +2,7 @@
 
 **AI Code Reviewer** is a CLI tool that reviews your staged git changes before you commit — catching bugs, unsafe patterns, and logic errors using an LLM, with built-in hallucination filtering so you only see findings that actually correspond to real lines in your diff.
 
-[![PyPI](https://img.shields.io/pypi/v/ai-code-reviewer-cli?style=flat&logo=pypi&logoColor=white)](https://pypi.org/project/ai-code-reviewer-cli/)
+[![PyPI](https://img.shields.io/pypi/v/ai-code-reviewer-cli?style=flat&logo=pypi&logoColor=white)](https://pypi.org/project/ai-code-reviewer-cli)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)](https://groq.com/)
 [![Publish to PyPI](https://github.com/muhilvannan16/ai-code-reviewer/actions/workflows/publish.yml/badge.svg)](https://github.com/muhilvannan16/ai-code-reviewer/actions/workflows/publish.yml)
