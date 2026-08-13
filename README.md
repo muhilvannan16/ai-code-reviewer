@@ -73,3 +73,9 @@ To block commits automatically when a critical issue is found, add a `pre-commit
 ## 📄 License
 
 MIT
+
+---
+
+## 👤 Author
+
+**Muhil** ([@muhilvannan16](https://github.com/muhilvannan16))
