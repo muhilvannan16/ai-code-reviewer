@@ -4,4 +4,4 @@ AI-powered code review tool using Groq for analyzing staged git changes.
 
 # Author
 
-muhilvannan16
+Muhilvannan
