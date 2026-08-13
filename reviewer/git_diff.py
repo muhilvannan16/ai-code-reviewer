@@ -7,8 +7,9 @@ def get_staged_diff() -> str:
     """
     result = subprocess.run(
         ["git", "diff", "--staged"],
-        capture_output=True,   
-        text=True
+        capture_output=True,
+        text=True,
+        encoding="utf-8",
     )
 
     return result.stdout
