@@ -80,7 +80,7 @@ MIT
 
 ## ⭐ Support
 
-If this project was useful to you — or you just think it's neat — consider giving it a star. It helps others find the project.
+If you find this project useful or interesting, consider giving it a star — it helps others discover it too.
 
 ---
 
