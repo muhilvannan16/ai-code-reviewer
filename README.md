@@ -6,6 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)](https://groq.com/)
 [![Publish to PyPI](https://github.com/muhilvannan16/ai-code-reviewer/actions/workflows/publish.yml/badge.svg)](https://github.com/muhilvannan16/ai-code-reviewer/actions/workflows/publish.yml)
+[![Stars](https://img.shields.io/github/stars/muhilvannan16/ai-code-reviewer?style=flat&color=yellow)](https://github.com/muhilvannan16/ai-code-reviewer/stargazers)
 
 ---
 
@@ -74,6 +75,12 @@ To block commits automatically when a critical issue is found, add a `pre-commit
 ## 📄 License
 
 MIT
+
+---
+
+## ⭐ Support
+
+If this project was useful to you — or you just think it's neat — consider giving it a star. It helps others find the project.
 
 ---
 
