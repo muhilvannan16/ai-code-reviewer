@@ -7,6 +7,7 @@
 [![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)](https://groq.com/)
 [![Publish to PyPI](https://github.com/muhilvannan16/ai-code-reviewer/actions/workflows/publish.yml/badge.svg)](https://github.com/muhilvannan16/ai-code-reviewer/actions/workflows/publish.yml)
 [![Stars](https://img.shields.io/github/stars/muhilvannan16/ai-code-reviewer?style=flat&color=yellow)](https://github.com/muhilvannan16/ai-code-reviewer/stargazers)
+[![Downloads](https://static.pepy.tech/badge/ai-code-reviewer-cli)](https://pepy.tech/projects/ai-code-reviewer-cli)
 
 ---
 
