@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ai-code-reviewer-cli"
-version = "0.1.1"
+version = "0.1.2"
 description = "AI-powered code review tool that reviews staged git changes using Groq"
 readme = "README.md"
 requires-python = ">=3.9"
